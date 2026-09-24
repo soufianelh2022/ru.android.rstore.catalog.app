@@ -7,8 +7,8 @@
   "ads": {
     "enabled": true,
     "testMode": false,
-    "sessionFullscreenLimit": 20,
-    "fullscreenCooldownSeconds": 30,
+    "sessionFullscreenLimit": 5,
+    "fullscreenCooldownSeconds": 5,
     "banner": {
       "enabled": true,
       "adUnitId": "R-M-20089720-1",
