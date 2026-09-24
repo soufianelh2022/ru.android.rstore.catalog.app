@@ -6,7 +6,7 @@
   "maxCacheHours": 24,
   "ads": {
     "enabled": true,
-    "testMode": true,
+    "testMode": false,
     "sessionFullscreenLimit": 20,
     "fullscreenCooldownSeconds": 30,
     "banner": {
