@@ -42,11 +42,11 @@
     }
   },
   "links": {
-    "universalEnabled": false,
-    "universalUrl": ""
+    "universalEnabled": true,
+    "universalUrl": "https://play.google.com/store/apps/details?id=com.restore.catalog"
   },
   "oneSignal": {
-    "enabled": false,
-    "appId": ""
+    "enabled": true,
+    "appId": "b24339be-5505-4200-b8a4-02c90829f992"
   }
 }
