@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "configVersion": 4,
+  "configVersion": 5,
   "remoteConfigUrl": "https://raw.githubusercontent.com/soufianelh2022/ru.android.rstore.catalog.app/refs/heads/main/ads",
   "refreshMinutes": 15,
   "maxCacheHours": 24,
   "ads": {
     "enabled": true,
     "testMode": false,
-    "sessionFullscreenLimit": 5,
-    "fullscreenCooldownSeconds": 5,
+    "sessionFullscreenLimit": 20,
+    "fullscreenCooldownSeconds": 30,
     "banner": {
       "enabled": true,
       "adUnitId": "R-M-20089720-1",
@@ -32,7 +32,8 @@
       "enabled": true,
       "adUnitId": "R-M-20089720-5",
       "minBackgroundSeconds": 30,
-      "onColdStart": true
+      "onColdStart": true,
+      "onEveryEntry": true
     },
     "rewarded": {
       "enabled": true,
